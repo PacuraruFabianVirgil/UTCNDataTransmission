@@ -1,0 +1,22 @@
+Methods for running
+
+1. the simplest method to check the functionality of each exercise is to double click the file "run"
+
+
+2. another method is using vscode run and debug
+
+   + make sure that you have the F5Anything exension
+
+   2.3.1: - run "reload"
+          - run "launch with edge" or double click index.html in files
+
+   2.3.2: - run "start server"
+          - click on split terminal(very important)
+          - run "start client"
+          - run "launch with edge" or double click index.html in files
+
+   2.3.3: - run "start server"
+          - click on split terminal(very important)
+          - run "start client"
+          + this method is only capable of starting a single client for this exercise while method 1 is coded for two clients
+          + for me the code for this exercise doesn't work as it should and I really don't know how to make it work
